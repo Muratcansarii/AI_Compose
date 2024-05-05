@@ -1,0 +1,1 @@
+The application was developed with ChatGPT and Gemini AIs. My aim in this project was to preview the success of artificial intelligence in developing mobile applications and where it can reach in the long term.
